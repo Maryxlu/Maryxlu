@@ -10,8 +10,9 @@ public class Maryxlu {
 
   public static void main(String[] args) {
 
-  System.out.println("Hi, I'm " + usr_name + " here. \n I'm " + pronouns + " \n I like java by the looks of it, and I also published custom KP_Liberations in my profile, I hope you like them! \n" +
-                        " I am gamer, and I like Gustavo Mulan11111");
+  System.out.println("Hi, I'm " + usr_name + " here. \n I'm " + pronouns + " \n I like java by the looks of it. \n" +
+                      "And I also published custom KP_Liberations in my profile, I hope you like them! \n" +
+                      "I am gamer, and I like Gustavo Mulan11111");
   }
 
 }
